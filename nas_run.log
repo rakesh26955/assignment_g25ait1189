@@ -1,0 +1,4590 @@
+Using device: cpu
+Starting with 6 Population:
+[Arch(conv=2, acc=0.0000), Arch(conv=2, acc=0.0000), Arch(conv=2, acc=0.0000), Arch(conv=1, acc=0.0000), Arch(conv=1, acc=0.0000), Arch(conv=1, acc=0.0000)]
+
+
+============================================================
+Generation 1/3
+============================================================
+Evaluating architecture 1/6... 
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.295
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.35
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.426
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.435
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.446
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.48
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.515
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.511
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.524
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.542
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.54
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.542
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.57
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.555
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.55
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.568
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.588
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.569
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.594
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.583
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.587
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.599
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.56
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.581
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.586
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.592
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.593
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.591
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.596
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.588
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.594
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.603
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.579
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.575
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.59
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.589
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.597
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.598
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.58
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.589
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.586
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.585
+Fitness: 0.5815, Accuracy: 0.6030
+Evaluating architecture 2/6... 
+Number of convolution parameters -  23328
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.28
+
+Number of convolution parameters -  23328
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.352
+
+Number of convolution parameters -  23328
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.408
+
+Number of convolution parameters -  23328
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.441
+
+Number of convolution parameters -  23328
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.457
+
+Number of convolution parameters -  23328
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.471
+
+Number of convolution parameters -  23328
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.493
+
+Number of convolution parameters -  23328
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.499
+
+Number of convolution parameters -  23328
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.516
+
+Number of convolution parameters -  23328
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.524
+
+Number of convolution parameters -  23328
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.53
+
+Number of convolution parameters -  23328
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.527
+
+Number of convolution parameters -  23328
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.532
+
+Number of convolution parameters -  23328
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.546
+
+Number of convolution parameters -  23328
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.55
+
+Number of convolution parameters -  23328
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.542
+
+Number of convolution parameters -  23328
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.556
+
+Number of convolution parameters -  23328
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.545
+
+Number of convolution parameters -  23328
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.556
+
+Number of convolution parameters -  23328
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.574
+
+Number of convolution parameters -  23328
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.579
+
+Number of convolution parameters -  23328
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.583
+
+Number of convolution parameters -  23328
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.554
+
+Number of convolution parameters -  23328
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.569
+
+Number of convolution parameters -  23328
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.594
+
+Number of convolution parameters -  23328
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.585
+
+Number of convolution parameters -  23328
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.601
+
+Number of convolution parameters -  23328
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.579
+
+Number of convolution parameters -  23328
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.573
+
+Number of convolution parameters -  23328
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.592
+
+Number of convolution parameters -  23328
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.586
+
+Number of convolution parameters -  23328
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.582
+
+Number of convolution parameters -  23328
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.588
+
+Number of convolution parameters -  23328
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.59
+
+Number of convolution parameters -  23328
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.59
+
+Number of convolution parameters -  23328
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.591
+
+Number of convolution parameters -  23328
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.595
+Fitness: 0.5798, Accuracy: 0.6010
+Evaluating architecture 3/6... 
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.326
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.453
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.498
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.505
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.518
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.507
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.527
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.531
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.524
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.545
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.543
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.546
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.565
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.548
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.562
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.564
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.564
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.556
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.578
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.569
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.57
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.555
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.585
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.571
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.565
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.566
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.589
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.57
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.581
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.575
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.579
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.588
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.578
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.567
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.576
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.591
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.582
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.568
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.579
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.578
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.568
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.571
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.58
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.58
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.584
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.576
+Fitness: 0.5802, Accuracy: 0.5910
+Evaluating architecture 4/6... 
+Number of convolution parameters -  448
+
+Number of fully connected layer parameters -  2102794
+
+Accuracy - 0.342
+
+Number of convolution parameters -  448
+
+Number of fully connected layer parameters -  2102794
+
+Accuracy - 0.43
+
+Number of convolution parameters -  448
+
+Number of fully connected layer parameters -  2102794
+
+Accuracy - 0.429
+
+Number of convolution parameters -  448
+
+Number of fully connected layer parameters -  2102794
+
+Accuracy - 0.473
+
+Number of convolution parameters -  448
+
+Number of fully connected layer parameters -  2102794
+
+Accuracy - 0.469
+
+Number of convolution parameters -  448
+
+Number of fully connected layer parameters -  2102794
+
+Accuracy - 0.485
+
+Number of convolution parameters -  448
+
+Number of fully connected layer parameters -  2102794
+
+Accuracy - 0.489
+
+Number of convolution parameters -  448
+
+Number of fully connected layer parameters -  2102794
+
+Accuracy - 0.5
+
+Number of convolution parameters -  448
+
+Number of fully connected layer parameters -  2102794
+
+Accuracy - 0.486
+
+Number of convolution parameters -  448
+
+Number of fully connected layer parameters -  2102794
+
+Accuracy - 0.498
+
+Number of convolution parameters -  448
+
+Number of fully connected layer parameters -  2102794
+
+Accuracy - 0.504
+
+Number of convolution parameters -  448
+
+Number of fully connected layer parameters -  2102794
+
+Accuracy - 0.504
+
+Number of convolution parameters -  448
+
+Number of fully connected layer parameters -  2102794
+
+Accuracy - 0.508
+
+Number of convolution parameters -  448
+
+Number of fully connected layer parameters -  2102794
+
+Accuracy - 0.505
+
+Number of convolution parameters -  448
+
+Number of fully connected layer parameters -  2102794
+
+Accuracy - 0.501
+
+Number of convolution parameters -  448
+
+Number of fully connected layer parameters -  2102794
+
+Accuracy - 0.51
+
+Number of convolution parameters -  448
+
+Number of fully connected layer parameters -  2102794
+
+Accuracy - 0.506
+
+Number of convolution parameters -  448
+
+Number of fully connected layer parameters -  2102794
+
+Accuracy - 0.502
+
+Number of convolution parameters -  448
+
+Number of fully connected layer parameters -  2102794
+
+Accuracy - 0.489
+
+Number of convolution parameters -  448
+
+Number of fully connected layer parameters -  2102794
+
+Accuracy - 0.51
+
+Number of convolution parameters -  448
+
+Number of fully connected layer parameters -  2102794
+
+Accuracy - 0.505
+
+Number of convolution parameters -  448
+
+Number of fully connected layer parameters -  2102794
+
+Accuracy - 0.503
+
+Number of convolution parameters -  448
+
+Number of fully connected layer parameters -  2102794
+
+Accuracy - 0.508
+
+Number of convolution parameters -  448
+
+Number of fully connected layer parameters -  2102794
+
+Accuracy - 0.506
+
+Number of convolution parameters -  448
+
+Number of fully connected layer parameters -  2102794
+
+Accuracy - 0.506
+
+Number of convolution parameters -  448
+
+Number of fully connected layer parameters -  2102794
+
+Accuracy - 0.497
+Fitness: 0.4890, Accuracy: 0.5100
+Evaluating architecture 5/6... 
+Number of convolution parameters -  1792
+
+Number of fully connected layer parameters -  2098570
+
+Accuracy - 0.313
+
+Number of convolution parameters -  1792
+
+Number of fully connected layer parameters -  2098570
+
+Accuracy - 0.369
+
+Number of convolution parameters -  1792
+
+Number of fully connected layer parameters -  2098570
+
+Accuracy - 0.396
+
+Number of convolution parameters -  1792
+
+Number of fully connected layer parameters -  2098570
+
+Accuracy - 0.443
+
+Number of convolution parameters -  1792
+
+Number of fully connected layer parameters -  2098570
+
+Accuracy - 0.458
+
+Number of convolution parameters -  1792
+
+Number of fully connected layer parameters -  2098570
+
+Accuracy - 0.449
+
+Number of convolution parameters -  1792
+
+Number of fully connected layer parameters -  2098570
+
+Accuracy - 0.468
+
+Number of convolution parameters -  1792
+
+Number of fully connected layer parameters -  2098570
+
+Accuracy - 0.485
+
+Number of convolution parameters -  1792
+
+Number of fully connected layer parameters -  2098570
+
+Accuracy - 0.493
+
+Number of convolution parameters -  1792
+
+Number of fully connected layer parameters -  2098570
+
+Accuracy - 0.498
+
+Number of convolution parameters -  1792
+
+Number of fully connected layer parameters -  2098570
+
+Accuracy - 0.514
+
+Number of convolution parameters -  1792
+
+Number of fully connected layer parameters -  2098570
+
+Accuracy - 0.479
+
+Number of convolution parameters -  1792
+
+Number of fully connected layer parameters -  2098570
+
+Accuracy - 0.502
+
+Number of convolution parameters -  1792
+
+Number of fully connected layer parameters -  2098570
+
+Accuracy - 0.494
+
+Number of convolution parameters -  1792
+
+Number of fully connected layer parameters -  2098570
+
+Accuracy - 0.494
+
+Number of convolution parameters -  1792
+
+Number of fully connected layer parameters -  2098570
+
+Accuracy - 0.505
+
+Number of convolution parameters -  1792
+
+Number of fully connected layer parameters -  2098570
+
+Accuracy - 0.516
+
+Number of convolution parameters -  1792
+
+Number of fully connected layer parameters -  2098570
+
+Accuracy - 0.511
+
+Number of convolution parameters -  1792
+
+Number of fully connected layer parameters -  2098570
+
+Accuracy - 0.505
+
+Number of convolution parameters -  1792
+
+Number of fully connected layer parameters -  2098570
+
+Accuracy - 0.515
+
+Number of convolution parameters -  1792
+
+Number of fully connected layer parameters -  2098570
+
+Accuracy - 0.51
+
+Number of convolution parameters -  1792
+
+Number of fully connected layer parameters -  2098570
+
+Accuracy - 0.509
+
+Number of convolution parameters -  1792
+
+Number of fully connected layer parameters -  2098570
+
+Accuracy - 0.523
+
+Number of convolution parameters -  1792
+
+Number of fully connected layer parameters -  2098570
+
+Accuracy - 0.524
+
+Number of convolution parameters -  1792
+
+Number of fully connected layer parameters -  2098570
+
+Accuracy - 0.526
+
+Number of convolution parameters -  1792
+
+Number of fully connected layer parameters -  2098570
+
+Accuracy - 0.52
+
+Number of convolution parameters -  1792
+
+Number of fully connected layer parameters -  2098570
+
+Accuracy - 0.527
+
+Number of convolution parameters -  1792
+
+Number of fully connected layer parameters -  2098570
+
+Accuracy - 0.508
+
+Number of convolution parameters -  1792
+
+Number of fully connected layer parameters -  2098570
+
+Accuracy - 0.522
+
+Number of convolution parameters -  1792
+
+Number of fully connected layer parameters -  2098570
+
+Accuracy - 0.507
+
+Number of convolution parameters -  1792
+
+Number of fully connected layer parameters -  2098570
+
+Accuracy - 0.535
+
+Number of convolution parameters -  1792
+
+Number of fully connected layer parameters -  2098570
+
+Accuracy - 0.528
+
+Number of convolution parameters -  1792
+
+Number of fully connected layer parameters -  2098570
+
+Accuracy - 0.512
+
+Number of convolution parameters -  1792
+
+Number of fully connected layer parameters -  2098570
+
+Accuracy - 0.527
+
+Number of convolution parameters -  1792
+
+Number of fully connected layer parameters -  2098570
+
+Accuracy - 0.529
+
+Number of convolution parameters -  1792
+
+Number of fully connected layer parameters -  2098570
+
+Accuracy - 0.521
+
+Number of convolution parameters -  1792
+
+Number of fully connected layer parameters -  2098570
+
+Accuracy - 0.505
+
+Number of convolution parameters -  1792
+
+Number of fully connected layer parameters -  2098570
+
+Accuracy - 0.516
+
+Number of convolution parameters -  1792
+
+Number of fully connected layer parameters -  2098570
+
+Accuracy - 0.508
+
+Number of convolution parameters -  1792
+
+Number of fully connected layer parameters -  2098570
+
+Accuracy - 0.514
+
+Number of convolution parameters -  1792
+
+Number of fully connected layer parameters -  2098570
+
+Accuracy - 0.523
+Fitness: 0.5140, Accuracy: 0.5350
+Evaluating architecture 6/6... 
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.229
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.253
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.309
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.352
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.42
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.439
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.434
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.465
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.464
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.47
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.466
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.496
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.487
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.516
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.504
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.506
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.502
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.502
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.502
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.493
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.514
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.508
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.526
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.522
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.498
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.517
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.525
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.501
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.514
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.504
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.54
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.527
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.533
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.523
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.521
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.529
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.521
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.522
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.509
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.53
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.527
+Fitness: 0.5347, Accuracy: 0.5400
+
+Sorting population in terms of fitness score (high -> low) ...
+Best in generation: Arch(conv=2, acc=0.6030)
+
+Best overall: Arch(conv=2, acc=0.6030)
+
+Performing tournament selection of total population: 6 ...
+Selection Probability -  0.45040270550443817
+Performing Crossover & Mutation ...
+Elitism: Keeping top 2 architectures in next generation.
+Next Generation: [Arch(conv=2, acc=0.6030), Arch(conv=2, acc=0.5910), Arch(conv=1, acc=0.0000), Arch(conv=1, acc=0.0000), Arch(conv=2, acc=0.5910), Arch(conv=1, acc=0.5400)]
+
+============================================================
+Generation 2/3
+============================================================
+Evaluating architecture 1/6... 
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.297
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.373
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.383
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.419
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.439
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.46
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.479
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.484
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.519
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.528
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.523
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.544
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.534
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.547
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.543
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.563
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.537
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.566
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.552
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.568
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.552
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.567
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.556
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.576
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.576
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.576
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.576
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.568
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.591
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.564
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.57
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.566
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.572
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.585
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.583
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.574
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.593
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.583
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.601
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.604
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.587
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.587
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.577
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.594
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.586
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.59
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.59
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.6
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.6
+
+Number of convolution parameters -  53024
+
+Number of fully connected layer parameters -  2099978
+
+Accuracy - 0.579
+Fitness: 0.5825, Accuracy: 0.6040
+Evaluating architecture 2/6... 
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.291
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.436
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.475
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.504
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.511
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.533
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.524
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.54
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.524
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.575
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.569
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.573
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.585
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.593
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.579
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.587
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.593
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.58
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.591
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.589
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.595
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.591
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.594
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.588
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.598
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.582
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.603
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.593
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.589
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.599
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.581
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.593
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.596
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.597
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.595
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.583
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.586
+Fitness: 0.5922, Accuracy: 0.6030
+Evaluating architecture 3/6... 
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.308
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.315
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.363
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.389
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.442
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.447
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.464
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.46
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.473
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.484
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.481
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.493
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.505
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.482
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.503
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.515
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.497
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.519
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.525
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.52
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.536
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.53
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.515
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.516
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.542
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.527
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.535
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.548
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.539
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.538
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.526
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.533
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.524
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.539
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.536
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.551
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.544
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.544
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.532
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.535
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.514
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.554
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.536
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.534
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.53
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.524
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.542
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.542
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.536
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.551
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.559
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.549
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.556
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.542
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.557
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.566
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.557
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.551
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.557
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.549
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.546
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.531
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.566
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.559
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.561
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.548
+Fitness: 0.5607, Accuracy: 0.5660
+Evaluating architecture 4/6... 
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.261
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.338
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.4
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.369
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.383
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.435
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.446
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.426
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.445
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.461
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.474
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.478
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.467
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.485
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.493
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.485
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.488
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.506
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.504
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.493
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.507
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.512
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.515
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.515
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.493
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.52
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.495
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.512
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.526
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.522
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.522
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.504
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.528
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.517
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.521
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.516
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.533
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.51
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.503
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.539
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.53
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.52
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.533
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.533
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.512
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.511
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.527
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.512
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.523
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.519
+Fitness: 0.5337, Accuracy: 0.5390
+Evaluating architecture 5/6... 
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.314
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.454
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.503
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.509
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.506
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.525
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.546
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.534
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.561
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.555
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.559
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.582
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.555
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.569
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.563
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.592
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.593
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.577
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.584
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.575
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.595
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.606
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.579
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.599
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.59
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.593
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.586
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.589
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.579
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.602
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.577
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.58
+Fitness: 0.5952, Accuracy: 0.6060
+Evaluating architecture 6/6... 
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.32
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.374
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.393
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.408
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.455
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.499
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.489
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.486
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.477
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.495
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.495
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.488
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.498
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.516
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.509
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.494
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.508
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.507
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.51
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.516
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.521
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.525
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.52
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.517
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.534
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.524
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.527
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.524
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.515
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.531
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.528
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.53
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.535
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.521
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.523
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.525
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.533
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.538
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.529
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.534
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.537
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.515
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.525
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.536
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.53
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.532
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.524
+
+Number of convolution parameters -  2432
+
+Number of fully connected layer parameters -  525002
+
+Accuracy - 0.517
+Fitness: 0.5327, Accuracy: 0.5380
+
+Sorting population in terms of fitness score (high -> low) ...
+Best in generation: Arch(conv=2, acc=0.6060)
+
+Best overall: Arch(conv=2, acc=0.6060)
+
+Performing tournament selection of total population: 6 ...
+Selection Probability -  0.8126983930485796
+Performing Crossover & Mutation ...
+Elitism: Keeping top 2 architectures in next generation.
+Next Generation: [Arch(conv=2, acc=0.6060), Arch(conv=2, acc=0.6030), Arch(conv=2, acc=0.0000), Arch(conv=2, acc=0.0000), Arch(conv=2, acc=0.0000), Arch(conv=2, acc=0.0000)]
+
+============================================================
+Generation 3/3
+============================================================
+Evaluating architecture 1/6... 
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.279
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.431
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.485
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.479
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.519
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.537
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.531
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.551
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.541
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.566
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.585
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.575
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.573
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.578
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.583
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.579
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.584
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.572
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.566
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.582
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.569
+Fitness: 0.5742, Accuracy: 0.5850
+Evaluating architecture 2/6... 
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.303
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.443
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.476
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.505
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.527
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.535
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.533
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.547
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.532
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.566
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.561
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.57
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.576
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.567
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.564
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.571
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.575
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.583
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.578
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.575
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.588
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.591
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.596
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.585
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.582
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.596
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.601
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.595
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.583
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.583
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.579
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.598
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.584
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.591
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.592
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.58
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.584
+Fitness: 0.5902, Accuracy: 0.6010
+Evaluating architecture 3/6... 
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.334
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.399
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.505
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.51
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.54
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.532
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.547
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.543
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.548
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.541
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.559
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.567
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.564
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.576
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.549
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.56
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.583
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.569
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.568
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.581
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.57
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.588
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.574
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.587
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.573
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.592
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.593
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.58
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.594
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.576
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.585
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.576
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.581
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.576
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.583
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.591
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.581
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.583
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.576
+Fitness: 0.5832, Accuracy: 0.5940
+Evaluating architecture 4/6... 
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.349
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.421
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.48
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.49
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.541
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.527
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.56
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.537
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.562
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.54
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.558
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.571
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.578
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.564
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.575
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.576
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.576
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.582
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.583
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.571
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.592
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.566
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.589
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.58
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.599
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.597
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.587
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.592
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.581
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.591
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.591
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.594
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.601
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.587
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.586
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.6
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.587
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.596
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.594
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.587
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.583
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.588
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.599
+Fitness: 0.5902, Accuracy: 0.6010
+Evaluating architecture 5/6... 
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  525706
+
+Accuracy - 0.311
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  525706
+
+Accuracy - 0.417
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  525706
+
+Accuracy - 0.475
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  525706
+
+Accuracy - 0.503
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  525706
+
+Accuracy - 0.518
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  525706
+
+Accuracy - 0.52
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  525706
+
+Accuracy - 0.523
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  525706
+
+Accuracy - 0.554
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  525706
+
+Accuracy - 0.553
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  525706
+
+Accuracy - 0.561
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  525706
+
+Accuracy - 0.539
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  525706
+
+Accuracy - 0.559
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  525706
+
+Accuracy - 0.56
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  525706
+
+Accuracy - 0.566
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  525706
+
+Accuracy - 0.564
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  525706
+
+Accuracy - 0.565
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  525706
+
+Accuracy - 0.57
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  525706
+
+Accuracy - 0.579
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  525706
+
+Accuracy - 0.572
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  525706
+
+Accuracy - 0.571
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  525706
+
+Accuracy - 0.568
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  525706
+
+Accuracy - 0.564
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  525706
+
+Accuracy - 0.558
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  525706
+
+Accuracy - 0.565
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  525706
+
+Accuracy - 0.574
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  525706
+
+Accuracy - 0.573
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  525706
+
+Accuracy - 0.582
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  525706
+
+Accuracy - 0.571
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  525706
+
+Accuracy - 0.559
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  525706
+
+Accuracy - 0.575
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  525706
+
+Accuracy - 0.559
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  525706
+
+Accuracy - 0.577
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  525706
+
+Accuracy - 0.573
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  525706
+
+Accuracy - 0.556
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  525706
+
+Accuracy - 0.574
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  525706
+
+Accuracy - 0.595
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  525706
+
+Accuracy - 0.585
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  525706
+
+Accuracy - 0.572
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  525706
+
+Accuracy - 0.563
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  525706
+
+Accuracy - 0.574
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  525706
+
+Accuracy - 0.575
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  525706
+
+Accuracy - 0.577
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  525706
+
+Accuracy - 0.573
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  525706
+
+Accuracy - 0.576
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  525706
+
+Accuracy - 0.578
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  525706
+
+Accuracy - 0.582
+Fitness: 0.5894, Accuracy: 0.5950
+Evaluating architecture 6/6... 
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.328
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.393
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.464
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.485
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.506
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.519
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.51
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.529
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.545
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.54
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.538
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.565
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.555
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.574
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.546
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.558
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.58
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.564
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.578
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.581
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.573
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.587
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.578
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.58
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.579
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.582
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.587
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.567
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.571
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.575
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.589
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.585
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.575
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.589
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.582
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.576
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.595
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.572
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.554
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.588
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.559
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.582
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.591
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.583
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.583
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.571
+
+Number of convolution parameters -  30480
+
+Number of fully connected layer parameters -  1051402
+
+Accuracy - 0.575
+Fitness: 0.5842, Accuracy: 0.5950
+
+Sorting population in terms of fitness score (high -> low) ...
+Best in generation: Arch(conv=2, acc=0.6010)
+
+Best overall: Arch(conv=2, acc=0.6060)
+
+Performing tournament selection of total population: 6 ...
+Selection Probability -  0.7791605776467536
+Performing Crossover & Mutation ...
+Elitism: Keeping top 2 architectures in next generation.
+Next Generation: [Arch(conv=2, acc=0.6010), Arch(conv=2, acc=0.6010), Arch(conv=2, acc=0.0000), Arch(conv=2, acc=0.0000), Arch(conv=2, acc=0.0000), Arch(conv=2, acc=0.0000)]
+
+============================================================
+FINAL BEST ARCHITECTURE
+============================================================
+Genes: {'num_conv': 2, 'conv_configs': [{'filters': 64, 'kernel_size': 5}, {'filters': 16, 'kernel_size': 5}], 'pool_type': 'avg', 'activation': 'relu', 'fc_units': 256}
+Accuracy: 0.6060
+Fitness: 0.5952
+
+Total parameters: 1,082,042
+
+Model architecture:
+CNN(
+  (features): Sequential(
+    (0): Conv2d(3, 64, kernel_size=(5, 5), stride=(1, 1), padding=(2, 2))
+    (1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (2): ReLU(inplace=True)
+    (3): Conv2d(64, 16, kernel_size=(5, 5), stride=(1, 1), padding=(2, 2))
+    (4): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (5): ReLU(inplace=True)
+    (6): AvgPool2d(kernel_size=2, stride=2, padding=0)
+  )
+  (classifier): Sequential(
+    (0): Flatten(start_dim=1, end_dim=-1)
+    (1): Linear(in_features=4096, out_features=256, bias=True)
+    (2): ReLU(inplace=True)
+    (3): Dropout(p=0.5, inplace=False)
+    (4): Linear(in_features=256, out_features=10, bias=True)
+  )
+)
